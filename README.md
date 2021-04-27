@@ -8,3 +8,15 @@ In this repo object detection is performed with two pretrained models on coco da
 
 - MobileNet SSD v3 : The model is downloaded from [here](https://github.com/opencv/opencv/wiki/TensorFlow-Object-Detection-API)
 - YoloV3 : The model is downloaded from [here](https://pjreddie.com/darknet/yolo/)
+
+
+**MobileNet Results**  
+
+<img src="https://github.com/abyanjan/Object-Detection-with-OpenCV/blob/master/MobileNet_results.jpg" width="500" height="300"> 
+
+
+
+**Yolov3 Results**  
+
+<img src="https://github.com/abyanjan/Object-Detection-with-OpenCV/blob/master/Yolov3_results.jpg" width="500" height="300"> 
+
